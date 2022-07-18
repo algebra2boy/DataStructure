@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ColoredPoint
+comment1.params=x\ y\ color
+comment1.target=ColoredPoint(int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=java.awt.Color\ getColored()
+numComments=3

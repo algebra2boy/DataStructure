@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Name_StarWars_CLIENT
+comment1.params=
+comment1.target=void\ main()
+comment2.params=names
+comment2.target=void\ printList(Name[])
+comment3.params=nameList
+comment3.target=void\ sortList(Name[])
+comment4.params=list
+comment4.target=java.lang.String\ mostCommonLastName(Name[])
+comment5.params=n
+comment5.target=Name\ shortestTotalName(Name[])
+comment6.params=nl
+comment6.target=java.lang.String\ largestMembersInNames(Name[])
+numComments=7

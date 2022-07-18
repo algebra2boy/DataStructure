@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment1.params=
+comment1.target=SavingsAccount()
+comment2.params=firstName\ lastName\ ss\ bMonth\ bDay\ bYear\ sMonth\ sDay\ sYear\ sb
+comment2.target=SavingsAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ double)
+comment3.params=
+comment3.target=void\ calculateMonthlyInterest()
+comment4.params=apr
+comment4.target=void\ modifyInterestRate(double)
+comment5.params=
+comment5.target=double\ getAnnualInterestRate()
+comment6.params=
+comment6.target=double\ getSavingsBalance()
+comment7.params=
+comment7.target=java.lang.String\ printBalance()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

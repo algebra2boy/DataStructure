@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ticket
+comment1.params=row\ column
+comment1.target=Ticket(int,\ int)
+comment2.params=
+comment2.target=void\ printTicket()
+numComments=3

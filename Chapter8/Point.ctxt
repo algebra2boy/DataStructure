@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment10.params=
+comment10.target=int\ gety()
+comment11.params=
+comment11.target=void\ flip()
+comment12.params=other
+comment12.target=int\ compareTo(Point)
+comment2.params=
+comment2.target=int\ getQuadrant()
+comment3.params=other
+comment3.target=double\ getSlope(Point)
+comment4.params=other
+comment4.target=boolean\ isVertical(Point)
+comment5.params=other
+comment5.target=double\ ManhattanDistance(Point)
+comment6.params=p1\ p2
+comment6.target=boolean\ isCollinear(Point,\ Point)
+comment7.params=value\ places
+comment7.target=double\ round(double,\ int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=int\ getx()
+numComments=13

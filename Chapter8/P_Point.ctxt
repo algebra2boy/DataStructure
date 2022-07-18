@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=P_Point
+comment1.params=dx\ dy
+comment1.target=void\ translate(int,\ int)
+comment2.params=
+comment2.target=double\ distanceFromOrigin()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=P_Point()
+comment5.params=x\ y
+comment5.target=P_Point(int,\ int)
+numComments=6
