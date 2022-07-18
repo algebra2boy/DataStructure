@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\n\ Abstract\ class\ Ticket\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=
+comment1.target=Ticket()
+comment2.params=n
+comment2.target=Ticket(int)
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

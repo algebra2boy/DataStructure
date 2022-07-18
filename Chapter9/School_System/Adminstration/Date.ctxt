@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\n\ Write\ a\ description\ of\ class\ Date\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Date()
+comment2.params=month\ day\ year
+comment2.target=Date(int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getDay()
+comment4.params=
+comment4.target=int\ getMonth()
+comment5.params=
+comment5.target=int\ getYear()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

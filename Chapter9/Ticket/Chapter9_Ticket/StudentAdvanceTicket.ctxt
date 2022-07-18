@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StudentAdvanceTicket
+comment1.params=
+comment1.target=StudentAdvanceTicket()
+comment2.params=number\ days
+comment2.target=StudentAdvanceTicket(int,\ int)
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

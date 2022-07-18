@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdvanceTicket
+comment1.params=
+comment1.target=AdvanceTicket()
+comment2.params=ticket\ days
+comment2.target=AdvanceTicket(int,\ int)
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=int\ getDays()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Abstract\ class\ Student\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=
+comment1.target=java.lang.String\ getGrade()
+comment2.params=
+comment2.target=Student()
+comment3.params=FirstName\ LastName\ gender\ age\ GPA\ DateOfBirth
+comment3.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ Date)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
