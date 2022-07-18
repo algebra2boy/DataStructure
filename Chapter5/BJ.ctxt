@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BJ
+comment1.params=
+comment1.target=void\ main()
+comment10.params=number
+comment10.target=int\ firstDigit(int)
+comment2.params=n
+comment2.target=java.lang.String\ toBinary(int)
+comment3.params=number
+comment3.target=void\ Exercise1(int)
+comment4.params=
+comment4.target=void\ Exercise11()
+comment5.params=
+comment5.target=void\ printAverage()
+comment6.params=a\ b\ c
+comment6.target=boolean\ consecutive(int,\ int,\ int)
+comment7.params=a\ b\ c
+comment7.target=boolean\ hasMidpoints(int,\ int,\ int)
+comment8.params=a\ b\ c
+comment8.target=boolean\ dominant(int,\ int,\ int)
+comment9.params=a\ b\ c
+comment9.target=boolean\ anglePairs(int,\ int,\ int)
+numComments=11

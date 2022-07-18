@@ -1,0 +1,14 @@
+/* My program 
+By Suzy Student */
+Public class Program
+{
+	public static void main(String[]args)
+	{
+		System.out.println("Hello, world!"); // a println
+	}
+
+	public static /* Hello there */ void foo()
+	{
+		System.out.println("GoodBye!"); // comment here
+	} /* */
+}

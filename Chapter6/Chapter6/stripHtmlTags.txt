@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>My web page</title>
+</head>
+<body>
+<p>There are many pictures of my cat here,
+As well as my <b>very cool</b> blog page,
+Which contains <font color="red">awesome
+Stuff about my trip to Vegas.</p>
+Here's my cat now:<img src = "cat.jpg">
+</body>
+</html>
