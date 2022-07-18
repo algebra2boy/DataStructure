@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Exam
+comment0.text=\n\ Write\ a\ description\ of\ class\ Exam\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ a()
+comment1.text=public\ static\ void\ prime_numbers(int\ number){\n\ \ \ \ \ \ \ \ if(number%2\!\=0){\n\ \ \ \ \ \ \ \ \ \ \ \ throw\ new\ IllegalArgumentException("This\ is\ not\ a\ even\ number");\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ for(int\ i\=2;i<\=number;i++)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ int\ First_Prime_Factor\=0;\n\ \ \ \ \ \ \ \ \ \ \ \ //boolean\ second_Prime\=false;\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ j\=1;j<\=i;j++){\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(i%j\=\=0)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ First_Prime_Factor++;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ if(First_Prime_Factor\=\=2)\n\ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //First_Prime\=true;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("First_Prime\:"+i);\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ second_Number\=number-i;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ second_Number_Factor\=0;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ }\n}
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Extra_Challenging
+comment1.params=
+comment1.target=void\ main()
+comment2.params=k
+comment2.target=void\ cubes(int)
+comment3.params=M\ N
+comment3.target=void\ friendly(int,\ int)
+comment3.text=public\ static\ void\ prime_numbers(int\ number){\n\ \ \ \ if(number%2\!\=0){\n\ \ \ \ throw\ new\ IllegalArgumentException("This\ is\ not\ a\ even\ number");\n\ \ \ \ }\n\ \ \ \ int\ first_count_Factor\=0;\n\ \ \ \ int\ first_Prime_Number\=0;\n\ \ \ \ int\ second_Number\=0;\n\ \ \ \ for(int\ i\=1;i<\=number;i++){\n\ \ \ \ for(int\ j\=1;j<\=i;j++){\n\ \ \ \ if(i%j\=\=0){\n\ \ \ \ first_count_Factor++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ if(first_count_Factor\=\=2){\n\ \ \ \ first_Prime_Number\=i;\n\ \ \ \ }\n\ \ \ \ second_Number\=number-first_Prime_Number;\n\ \ \ \ int\ second_count_Factor\=0;\n\ \ \ \ for(int\ j\=1;j<\=second_Number;j++){\n\ \ \ \ if(second_Number%j\=\=0){\n\ \ \ \ second_count_Factor++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ if(second_count_Factor\=\=2){\n\ \ \ \ second_Number\=second_Number;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ System.out.println(number+"\="+first_Prime_Number+"+"+second_Number);\n}
+comment4.params=M\ N
+comment4.target=void\ friendly_given(int,\ int)
+numComments=5

@@ -1,0 +1,72 @@
+#BlueJ class context
+comment0.target=Logic_Programs
+comment1.params=
+comment1.target=void\ main()
+comment10.params=x1\ y1\ x2\ y2
+comment10.target=void\ slope(int,\ int,\ int,\ int)
+comment11.params=n1\ n2\ n3\ n4\ n5
+comment11.target=void\ biggest_Smallest(int,\ int,\ int,\ int,\ int)
+comment12.params=n1\ n2\ n3\ n4\ n5
+comment12.target=void\ grade(int,\ int,\ int,\ int,\ int)
+comment13.params=n1\ n2
+comment13.target=void\ answer_Remainder(int,\ int)
+comment14.params=num
+comment14.target=void\ Scientific_notation(double)
+comment15.params=num\ k
+comment15.target=void\ number_Of_Digit(int,\ int)
+comment16.params=num\ k
+comment16.target=void\ great_Less(int,\ int)
+comment16.text=public\ static\ void\ number_Of_Digit(int\ num,int\ k){//\#12\n\ \ \ \ int\ count\=0;\n\ \ \ \ int\ number\=num;\n\ \ \ \ while(number>0)\n\ \ \ \ {\n\ \ \ \ int\ last_Digit\=number%10;\n\ \ \ \ number\=number/10;\n\ \ \ \ if(last_Digit\=\=k)\n\ \ \ \ {\n\ \ \ \ count++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ System.out.println(k+"\ appears\ "+count+"\ times");\n}
+comment17.params=number
+comment17.target=void\ even_Digit(int)
+comment17.text=public\ static\ void\ great_Less(int\ num,int\ k){//\#13\n\ \ \ \ int\ great\=0,less\=0;\n\ \ \ \ int\ number\=num;\n\ \ \ \ while(number>0)\n\ \ \ \ {\n\ \ \ \ int\ last_Digit\=number%10;\n\ \ \ \ number\=number/10;\n\ \ \ \ if(last_Digit>k)\n\ \ \ \ {\n\ \ \ \ great++;\n\ \ \ \ }else{\n\ \ \ \ less++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ System.out.println(less+"\ numbers<k\ "+great+"\ numbers>k");\n}
+comment18.params=number
+comment18.target=void\ tell_digit(int)
+comment18.text=public\ static\ void\ even_Digit(int\ num){//\#14\n\ \ \ \ int\ number\=num;\n\ \ \ \ int\ count\=0;\n\ \ \ \ while(number>0)\n\ \ \ \ {\n\ \ \ \ int\ last_Digit\=number%10;\n\ \ \ \ number\=number/10;\n\ \ \ \ if(last_Digit%2\=\=0){\n\ \ \ \ count++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ System.out.println("number\="+num+"\\neven\ digit\ count\="+count);\n}
+comment19.params=number
+comment19.target=void\ palindrome(int)
+comment19.text=public\ static\ void\ tell_digit(int\ num){//\#15\n\ \ \ \ int\ number\=num,count_digits\=0,count_even\=0;\n\ \ \ \ String\ a\="";\n\ \ \ \ System.out.println("number\:"+number+"\\nto\ tell\ if\ ALl\ of\ the\ digits\ are\ even");\n\ \ \ \ while(number>0)\n\ \ \ \ {\n\ \ \ \ int\ last_digit\=number%10;\n\ \ \ \ number\=number/10;\n\ \ \ \ count_digits++;\n\ \ \ \ if(last_digit%2\=\=0)\n\ \ \ \ {\n\ \ \ \ count_even++;\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ if(count_digits\=\=count_even)\n\ \ \ \ {\n\ \ \ \ a\="True";\n\ \ \ \ }else{\n\ \ \ \ a\="False";\n\ \ \ \ }\n\ \ \ \ System.out.println("Output\:"+a);\n}
+comment2.params=
+comment2.target=void\ Temperature()
+comment20.params=number
+comment20.target=void\ reverse(int)
+comment21.params=a
+comment21.target=void\ decimal_Value(java.lang.String)
+comment22.params=a
+comment22.target=void\ HEX_Value(java.lang.String)
+comment23.params=a
+comment23.target=java.lang.String\ converted_decimal(java.lang.String)
+comment24.params=Month\ Day\ Year
+comment24.target=void\ born(int,\ int,\ int)
+comment25.params=number
+comment25.target=void\ FirstFactorOfNumber(int)
+comment26.params=num
+comment26.target=void\ prime_Number(int)
+comment27.params=num
+comment27.target=void\ perfect(int)
+comment27.text=public\ static\ void\ prime_number_method2(int\ num)\n\ \ \ \ {\n\ \ \ \ for(int\ i\=1;i<\=num;i++)\n\ \ \ \ {\n\ \ \ \ //I\ found\ that\ the\ sum\ of\ factors\ of\ a\ prime\ number\=number+1\n\ \ \ \ //ex.the\ factor\ of\ 7\ is\ 1\ and\ 7,(1+7)factor\=7+1(number+1)\n\ \ \ \ int\ sum\=0;\n\ \ \ \ for(int\ j\=1;j<\=i;j++){\n\ \ \ \ if(i%j\=\=0){\n\ \ \ \ sum\=sum+j;\n\ \ \ \ }\n\ \ \ \ }\ \ \ \n\ \ \ \ if(sum\=\=i+1||sum\=\=1){\n\ \ \ \ System.out.print(i+",");\n\ \ \ \ }\n\ \ \ \ }\n}
+comment28.params=starCount\ rowCount
+comment28.target=void\ starCount(int,\ int)
+comment29.params=rowCount
+comment29.target=void\ rowCount(int)
+comment3.params=Temperature
+comment3.target=void\ fahrenheit_To_Celsius(double)
+comment30.params=rowCount
+comment30.target=void\ Pro_a(int)
+comment31.params=rowCount
+comment31.target=void\ Pro_b(int)
+comment32.params=rowCount
+comment32.target=void\ Pro_c(int)
+comment4.params=Temperature
+comment4.target=void\ celsius_To_Fahrenheit(double)
+comment5.params=a\ b\ c
+comment5.target=void\ quadratic_Equation(double,\ double,\ double)
+comment6.params=
+comment6.target=void\ gravity()
+comment7.params=
+comment7.target=void\ talk_Phone()
+comment8.params=a\ b\ c
+comment8.target=void\ triangle(int,\ int,\ int)
+comment9.params=n1\ d1\ n2\ d2
+comment9.target=void\ Fraction(int,\ int,\ int,\ int)
+numComments=33
