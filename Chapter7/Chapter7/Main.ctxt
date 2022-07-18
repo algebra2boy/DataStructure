@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=board\ NUM_PAIRS
+comment2.target=int[]\ fill_shuffle(int[],\ int)
+comment3.params=board\ printElement\ name1\ name2\ score1\ score2\ console
+comment3.target=void\ player_interact(int[],\ boolean[],\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.util.Scanner)
+numComments=4

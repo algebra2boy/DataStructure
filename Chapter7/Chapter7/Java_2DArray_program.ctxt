@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Java_2DArray_program
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=a
+comment10.target=void\ problem3(int[][])
+comment11.params=a
+comment11.target=void\ problem2(int[][])
+comment12.params=a
+comment12.target=void\ problem1(int[][])
+comment2.params=a
+comment2.target=void\ smoke(char[][])
+comment3.params=a
+comment3.target=int[][]\ transpose(int[][])
+comment4.params=a
+comment4.target=void\ problem8(int[][])
+comment5.params=a
+comment5.target=void\ problem7(java.lang.String[][])
+comment6.params=a
+comment6.target=int\ count(java.lang.String)
+comment7.params=a
+comment7.target=void\ problem6(int[][])
+comment8.params=a
+comment8.target=void\ problem5(int[][])
+comment9.params=a
+comment9.target=void\ problem4(int[][])
+numComments=13

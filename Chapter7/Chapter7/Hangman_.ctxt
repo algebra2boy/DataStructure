@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hangman_
+comment1.params=
+comment1.target=void\ main()
+comment2.params=guess\ getuser
+comment2.target=boolean\ repetition(char[],\ char)
+comment3.params=console
+comment3.target=char\ getuser(java.util.Scanner)
+comment4.params=result\ secret\ OpArray\ guess\ guess_pos
+comment4.target=boolean\ check(char,\ char[],\ char[],\ char[],\ int)
+comment5.params=number_lives\ life
+comment5.target=int\ life(boolean,\ int)
+numComments=6

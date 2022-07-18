@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pascal_Condensed
+comment1.params=
+comment1.target=void\ main()
+comment2.params=size
+comment2.target=void\ triangle(int)
+comment3.params=a\ size
+comment3.target=void\ middleTerm(int[][],\ int)
+comment3.text=\ this\ method\ is\ use\ for\ finding\ middle\ terms,\ middle\ terms\ only\ exists\ when\ size\ is\ \ngreater\ than\ 2
+comment4.params=a
+comment4.target=void\ ones(int[][])
+numComments=5
