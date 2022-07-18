@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DoublyLinkedList
+comment1.params=
+comment1.target=DoublyLinkedList()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=data
+comment3.target=void\ add(int)
+comment3.text=public\ String\ toString(){\ //\ print\ from\ the\ tail\ to\ the\ head\n\ \ \ \ if(tail\ \=\=\ null){return\ "[]";}\n\ \ \ \ String\ result\ \=\ "["\ +\ tail.data;\n\ \ \ \ DblLLNode\ curr\ \=\ tail.prev;\n\ \ \ \ while(curr\ \!\=\ null){\n\ \ \ \ result\ +\=\ ","\ +\ curr.data;\n\ \ \ \ curr\ \=\ curr.prev;\n\ \ \ \ }\n\ \ \ \ return\ result\ +\ "]";\n}
+comment4.params=node
+comment4.target=void\ addInOrder(DblLLNode)
+comment4.text=public\ void\ add(int\ index,\ int\ data){\n\ \ \ \ DblLLNode\ Node\ \=\ new\ DblLLNode(data);\n\ \ \ \ if(head\ \=\=\ null){//\ empty\n\ \ \ \ head\ \=\ tail\ \=\ Node;\n\ \ \ \ }else{\ //\ middle\ \n\ \ \ \ DblLLNode\ curr\ \=\ nodeAt(index-1);\n\ \ \ \ Node.next\ \=\ curr.next;\n\ \ \ \ Node.next.prev\ \=\ Node;\n\ \ \ \ curr.next\ \=\ Node;\n\ \ \ \ Node.prev\ \=\ curr;\n\ \ \ \ }\n}
+comment5.params=Node
+comment5.target=void\ removeAll(DblLLNode)
+comment6.params=index
+comment6.target=DblLLNode\ nodeAt(int)
+comment7.params=
+comment7.target=DblLLNode\ getHead()
+comment8.params=
+comment8.target=DblLLNode\ getTail()
+numComments=9

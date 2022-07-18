@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DblLLNode
+comment1.params=
+comment1.target=DblLLNode()
+comment2.params=data
+comment2.target=DblLLNode(int)
+comment3.params=prev\ data\ next
+comment3.target=DblLLNode(DblLLNode,\ int,\ DblLLNode)
+comment4.params=
+comment4.target=int\ getData()
+comment5.params=
+comment5.target=DblLLNode\ getNext()
+comment6.params=
+comment6.target=DblLLNode\ getPrev()
+comment7.params=data
+comment7.target=void\ setData(int)
+comment8.params=next
+comment8.target=void\ setNext(DblLLNode)
+comment9.params=prev
+comment9.target=void\ setPrev(DblLLNode)
+numComments=10

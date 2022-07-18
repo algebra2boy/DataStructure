@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CircularNode
+comment1.params=
+comment1.target=CircularNode()
+comment2.params=value
+comment2.target=CircularNode(int)
+comment3.params=data\ node
+comment3.target=CircularNode(int,\ CircularNode)
+comment4.params=
+comment4.target=int\ getData()
+comment5.params=
+comment5.target=CircularNode\ getNext()
+comment6.params=value
+comment6.target=void\ setData(int)
+comment7.params=node
+comment7.target=void\ setNext(CircularNode)
+numComments=8
