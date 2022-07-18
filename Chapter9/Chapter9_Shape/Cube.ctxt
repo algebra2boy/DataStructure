@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=
+comment1.target=Cube()
+comment2.params=side
+comment2.target=Cube(double)
+comment3.params=
+comment3.target=double\ getSurfaceArea()
+comment4.params=
+comment4.target=double\ getVolumn()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

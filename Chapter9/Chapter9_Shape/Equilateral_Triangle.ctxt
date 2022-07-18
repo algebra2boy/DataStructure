@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Equilateral_Triangle
+comment1.params=
+comment1.target=Equilateral_Triangle()
+comment2.params=side
+comment2.target=Equilateral_Triangle(double)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getSideCount()
+numComments=5

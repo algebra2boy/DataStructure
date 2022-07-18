@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Write\ a\ description\ of\ class\ Student\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ id\ wallet
+comment1.target=Student(java.lang.String,\ int,\ AirWallet)
+comment2.params=name\ id\ Plan
+comment2.target=Student(java.lang.String,\ int,\ DataPlan)
+comment3.params=name\ id\ app
+comment3.target=Student(java.lang.String,\ int,\ Apps[])
+comment4.params=
+comment4.target=DataPlan\ getDataPlan()
+comment5.params=
+comment5.target=AirWallet\ getAirWallet()
+comment6.params=
+comment6.target=Apps\ getApps()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

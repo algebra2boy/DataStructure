@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=
+comment1.target=Circle()
+comment2.params=radius\ x\ y
+comment2.target=Circle(double,\ int,\ int)
+comment3.params=radius\ that
+comment3.target=Circle(double,\ Point)
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=double\ getPerimeter()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=double\ getRadius()
+comment8.params=
+comment8.target=int\ getSideCount()
+comment9.params=that
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

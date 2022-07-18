@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Octagon
+comment1.params=
+comment1.target=double\ getArea()
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getSideCount()
+comment5.params=
+comment5.target=double\ getSide()
+numComments=6
