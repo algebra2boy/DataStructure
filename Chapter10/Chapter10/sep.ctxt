@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=sep
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a
+comment2.target=java.util.ArrayList\ removeDuplicates(java.util.ArrayList)
+numComments=3

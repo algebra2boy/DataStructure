@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListsSelfCheck
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list
+comment2.target=int\ selfcheck4(java.util.List)
+comment3.params=list\ word
+comment3.target=void\ selfcheck5(java.util.List,\ java.lang.String)
+comment4.params=list\ value
+comment4.target=void\ selfcheck6(java.util.List,\ int)
+comment5.params=list
+comment5.target=void\ selfcheck7(java.util.List)
+numComments=6

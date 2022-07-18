@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Chapter11Exercise
+comment1.params=
+comment1.target=void\ main()
+comment10.params=set
+comment10.target=void\ removeEvenLength(java.util.Set)
+comment11.params=set1\ set2
+comment11.target=java.util.Set\ symmetricDifference(java.util.Set,\ java.util.Set)
+comment2.params=list1\ list2
+comment2.target=java.util.List\ alternate(java.util.List,\ java.util.List)
+comment3.params=list\ value\ start\ end
+comment3.target=void\ removeInRange(java.util.List,\ int,\ int,\ int)
+comment4.params=list
+comment4.target=void\ sortAndRemoveDuplicates(java.util.List)
+comment5.params=list
+comment5.target=int\ countUnique(java.util.List)
+comment6.params=list1\ list2
+comment6.target=int\ countCommon(java.util.List,\ java.util.List)
+comment7.params=set
+comment7.target=int\ maxLength(java.util.Set)
+comment8.params=list\ value
+comment8.target=void\ partition(java.util.List,\ int)
+comment9.params=set
+comment9.target=boolean\ hasOdd(java.util.Set)
+numComments=12

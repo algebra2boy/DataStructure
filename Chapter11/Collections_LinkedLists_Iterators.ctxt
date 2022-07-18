@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Collections_LinkedLists_Iterators
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a2
+comment2.target=void\ printArray(int[])
+comment3.params=LL2
+comment3.target=void\ printLinkedList(java.util.LinkedList)
+comment4.params=LL3
+comment4.target=void\ printList(java.util.List)
+comment5.params=LL5
+comment5.target=void\ printCollectionViaIterator(java.util.Collection)
+comment5.text=\n\ \ \ \ public\ static\ void\ printCollection(Collection\ LL4)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ System.out.println("printColletion\:\ \\n");\n\ \ \ \ \ \ \ \ System.out.print(LL4.get(0));\ \ //\ ERROR\:\ get(i)\ NOT\ allowed\n\ \ \ \ \ \ \ \ for\ (int\ j\=1;\ j<LL4.size();\ j++)\ \ \ //\ in\ Collection\ class\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.print(",\ "\ +\ LL4.get(j));\ \ //\ ERROR\n\ \ \ \ \ \ \ \ System.out.println("\\n\\n");\ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ }\ \ //\ printCollection\ \ \ \ \ \ \n
+numComments=6

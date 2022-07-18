@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MapPractice
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list
+comment2.target=boolean\ contain3(java.util.List)
+comment3.params=m
+comment3.target=boolean\ isUnique(java.util.Map)
+comment4.params=li
+comment4.target=int\ maxOccurence(java.util.List)
+comment5.params=m1\ m2
+comment5.target=boolean\ subMap(java.util.Map,\ java.util.Map)
+comment6.params=m
+comment6.target=java.util.Map\ reverse(java.util.Map)
+comment7.params=m1\ m2
+comment7.target=java.util.Map\ intersect(java.util.Map,\ java.util.Map)
+comment8.params=m
+comment8.target=int\ rarest(java.util.Map)
+numComments=9
