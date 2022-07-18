@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ProgrammingProjects
+comment0.text=public\ class\ Project1\n{\n\ \ \ \ public\ static\ void\ main()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ well(3,4);\n\ \ \ \ }\n\ \ \ \ public\ static\ void\ well(int\ a,int\ b){\n\ \ \ \ \ \ \ \ for(int\ i\=1;i<\=a;i++){\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ j\=1;j<\=b;j++){\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n}
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ printTree()
+numComments=3

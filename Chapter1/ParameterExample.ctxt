@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ParameterExample
+comment1.params=args
+comment1.target=void\ Pratice1(java.lang.String[])
+comment2.params=number
+comment2.target=void\ writeSpaces(int)
+numComments=3

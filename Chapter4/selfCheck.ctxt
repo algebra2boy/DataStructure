@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=selfCheck
+comment1.params=
+comment1.target=void\ selfcheck_7()
+comment2.params=
+comment2.target=void\ selfcheck_13()
+comment3.params=
+comment3.target=void\ selfcheck_14()
+comment4.params=
+comment4.target=void\ selfcheck_8()
+comment5.params=
+comment5.target=void\ selfcheck8()
+comment6.params=s
+comment6.target=int\ selfcheck22(java.lang.String)
+comment7.params=st
+comment7.target=int\ selfCheck24(java.lang.String)
+numComments=8

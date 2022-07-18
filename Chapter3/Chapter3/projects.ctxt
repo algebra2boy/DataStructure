@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=projects
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=segments\ height
+comment2.target=void\ project1(int,\ int)
+comment3.params=
+comment3.target=void\ project2()
+comment4.params=n
+comment4.target=double\ round(double)
+comment5.params=
+comment5.target=void\ project3()
+comment6.params=
+comment6.target=void\ project4()
+comment6.text=public\ static\ void\ project3secondmethod(){\n\ \ \ \ \ \ \ \ System.out.println("\\tDay\\tPresents\ Received\\tTotal\ presents");\n\ \ \ \ \ \ \ \ int\ total\=0;\n\ \ \ \ \ \ \ \ for(int\ i\=1;i<\=12;i++){\n\ \ \ \ \ \ \ \ \ \ \ \ total\=total+i;\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("\\t"+i+"\\t\\t"+i+"\\t\\t\\t"+total);\ \ \ \ \n\ \ \ \ }\n}
+comment7.params=
+comment7.target=void\ project5()
+comment8.params=
+comment8.target=void\ project6()
+comment9.params=n\ width
+comment9.target=java.lang.String\ padded(int,\ int)
+numComments=10

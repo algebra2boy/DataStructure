@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bills
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ name
+comment2.target=int\ getBills(java.util.Scanner,\ java.lang.String)
+comment3.params=
+comment3.target=void\ code()
+comment4.params=
+comment4.target=void\ mult()
+numComments=5
