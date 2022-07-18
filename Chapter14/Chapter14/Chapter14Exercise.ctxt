@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Chapter14Exercise
+comment1.params=
+comment1.target=void\ main()
+comment10.params=s
+comment10.target=boolean\ isConsecutive(java.util.Stack)
+comment2.params=s
+comment2.target=void\ stutter(java.util.Stack)
+comment3.params=s
+comment3.target=java.util.Stack\ copyStack(java.util.Stack)
+comment4.params=s
+comment4.target=void\ collapse(java.util.Stack)
+comment5.params=s1\ s2
+comment5.target=boolean\ equals(java.util.Stack,\ java.util.Stack)
+comment6.params=q
+comment6.target=void\ rerannage(java.util.Queue)
+comment7.params=s
+comment7.target=void\ splitStack(java.util.Stack)
+comment8.params=s
+comment8.target=void\ switchPairs(java.util.Stack)
+comment9.params=s1
+comment9.target=boolean\ isSorted(java.util.Stack)
+numComments=11
